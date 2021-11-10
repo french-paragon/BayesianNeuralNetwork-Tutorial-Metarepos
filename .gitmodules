@@ -1,0 +1,9 @@
+[submodule "toy-examples/sparse_measure_bnn"]
+	path = toy-examples/sparse_measure_bnn
+	url = https://github.com/french-paragon/sparse_measure_bnn.git
+[submodule "toy-examples/BayesianMnist"]
+	path = toy-examples/BayesianMnist
+	url = https://github.com/french-paragon/BayesianMnist
+[submodule "toy-examples/paperfold-bnn"]
+	path = toy-examples/paperfold-bnn
+	url = https://github.com/french-paragon/paperfold-bnn
